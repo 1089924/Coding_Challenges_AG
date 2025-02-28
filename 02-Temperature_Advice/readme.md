@@ -6,7 +6,7 @@ Take the users input as a "Float" in case Temperature is a decimal value
 
     Temperature = float(input("What is the current temperature? "))
 
-Use Conditionals to get the desired output
+Conditionals:
 
 Condition of message is the temperature is between the two extreme values of 25 and 10
 

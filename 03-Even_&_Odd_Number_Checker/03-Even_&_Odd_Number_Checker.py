@@ -1,10 +1,11 @@
 #Print a user-friendly entry message
 print("Hey,Welcome to Even & Odd Number Checker")
-#Take the users input in the integer string
+#Take the users input in the integer data type
 number = int(input("Enter a number: "))
-#Using conditionals to get the desired output
+#Using conditionals to check if the remainder of the division of our variable with two is zero
 if number % 2 == 0:
     print("The number is Even")
+# if the remainder is not Zero the nuber is odd
 else:
     print("The number is Odd")
 #Print a user-friendly exit message

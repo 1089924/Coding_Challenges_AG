@@ -7,7 +7,7 @@ Take the users input
 
     number = int(input("Enter a number: "))
 
-Getting the desired outcome using conditionals
+Getting the desired outcome using conditionals when the remainder of the division is o the number is even
 
     if number % 2 == 0:
     print("The number is Even")

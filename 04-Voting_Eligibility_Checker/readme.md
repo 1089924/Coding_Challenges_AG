@@ -6,7 +6,7 @@ Store the users input in a variable and put it in the integer field
 
     uAge = int(input("What year are you born? "))
 
-Using conditionals to get the desired output 
+Using conditionals to get the desired output: if you are greater an 18 you are eligible to vote   
 
     if uAge >= 18:
     print("You are eligible to vote!")

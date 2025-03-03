@@ -1,4 +1,6 @@
-Welcome the user to the application 
+
+
+Welcome the user to the application
 
     print("Welcome to the Temperature Advice App")
 

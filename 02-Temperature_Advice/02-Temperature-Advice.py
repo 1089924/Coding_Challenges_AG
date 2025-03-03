@@ -1,7 +1,16 @@
+#-----------------------------------------------------------------------------
+# Name:        Temperature advice
+# Purpose:     To provide suggestions on the basis of the temperature outdoors
+#
+# Author:      Aarvish Gupta
+# Created:     24-Feb-2025
+# Updated:     03-Mar-025
+#-----------------------------------------------------------------------------
+
 #Print a user-friendly entry message
 print("Welcome to the Temperature Advice App")
 #Ask for the users input which is stored in the Temperature variable, using the float data type for whole-decimal values
-Temperature = float(input("What is the current temperature? "))
+Temperature = float(input("What is the current temperature: "))
 # Conditionals
 #If statement for Temperature that is less then 10 and more than 25
 if Temperature < 25 and Temperature > 10:

@@ -1,3 +1,12 @@
+#-----------------------------------------------------------------------------
+# Name:        Student Grading System
+# Purpose:     To provide the Grade on the basis of the numerical marks
+#
+# Author:      Aarvish Gupta
+# Created:     24-Feb-2025
+# Updated:     03-Mar-025
+#-----------------------------------------------------------------------------
+
 #Ask the user for their score.
 print("Hey, Please input your grade for this terms ICS3U Program")
 # The score is an integer input field.
@@ -18,6 +27,8 @@ elif myGrade >= 60 <= 69:
 # If-Statement 4 to get Grade E
 elif myGrade >= 50 <= 59:
    print("Grade: E")
+
+
 
 
 #Ending else statement for Grade F

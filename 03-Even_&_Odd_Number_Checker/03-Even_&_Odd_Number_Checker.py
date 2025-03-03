@@ -1,3 +1,12 @@
+#-----------------------------------------------------------------------------
+# Name:        Even-Odd number checker
+# Purpose:     To classify numbers between odd and even
+#
+# Author:      Aarvish Gupta
+# Created:     24-Feb-2025
+# Updated:     03-Mar-025
+#-----------------------------------------------------------------------------
+
 #Print a user-friendly entry message
 print("Hey,Welcome to Even & Odd Number Checker")
 #Take the users input in the integer data type

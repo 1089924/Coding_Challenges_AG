@@ -1,3 +1,12 @@
+#-----------------------------------------------------------------------------
+# Name:        Voting Eligibility Checker
+# Purpose:     To check if you are og elligible age to vote
+#
+# Author:      Aarvish Gupta
+# Created:     24-Feb-2025
+# Updated:     03-Mar-025
+#-----------------------------------------------------------------------------
+
 #Output a user-friendly entry message
 print("Welcome to the Voting Eligibility Checker App!")
 # Store the input in the uAge variable as an integer data type

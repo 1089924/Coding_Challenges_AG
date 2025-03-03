@@ -1,3 +1,11 @@
+#-----------------------------------------------------------------------------
+# Name:        Day of the week Activity
+# Purpose:     To provide ideas for activities on the basis of the days of the week
+# Author:      Aarvish Gupta
+# Created:     24-Feb-2025
+# Updated:     03-Mar-025
+#-----------------------------------------------------------------------------
+
 print("Welcome to the Day of the Week Application!")
 DoWeek = str(input("What day of the week is it today: "))
 
@@ -15,8 +23,5 @@ elif DoWeek == "Saturday":
     print("Go for a hike!")
 elif DoWeek == "Sunday":
     print("Prepare for the week ahead with some self-care")
-
-
-
 
 print ("Thank you for using the Day of the Week Application!")

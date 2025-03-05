@@ -25,3 +25,5 @@ elif DoWeek == "Sunday":
     print("Prepare for the week ahead with some self-care")
 
 print ("Thank you for using the Day of the Week Application!")
+
+

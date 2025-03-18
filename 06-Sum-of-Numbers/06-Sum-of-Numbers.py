@@ -1,3 +1,12 @@
+#-----------------------------------------------------------------------------
+# Name:        Student Grading System
+# Purpose:     To provide the Grade on the basis of the numerical marks
+#
+# Author:      Aarvish Gupta
+# Created:     16-Mar-2025
+# Updated:     19-Mar-2025
+#-----------------------------------------------------------------------------
+
 def calculate_sum():
     # Ask the user for a number
     n = int(input("Enter a number: "))

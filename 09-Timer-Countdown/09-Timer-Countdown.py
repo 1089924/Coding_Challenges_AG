@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------
-# Name:        Student Grading System
+# Name:        Timer countdown
 # Purpose:     Timer countdown until 10 "units"
 #
 # Author:      Aarvish Gupta

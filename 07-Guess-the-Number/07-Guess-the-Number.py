@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------
-# Name:        Student Grading System
+# Name:        Guessing the number game
 # Purpose:     Random number guessing game
 #
 # Author:      Aarvish Gupta

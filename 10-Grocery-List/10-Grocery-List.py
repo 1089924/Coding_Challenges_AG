@@ -1,6 +1,6 @@
 #-----------------------------------------------------------------------------
-# Name:        Student Grading System
-# Purpose:     To provide the Grade on the basis of the numerical marks
+# Name:        Grocery List
+# Purpose:     To add items to a pre-made grocery list
 #
 # Author:      Aarvish Gupta
 # Created:     19-Mar-2025

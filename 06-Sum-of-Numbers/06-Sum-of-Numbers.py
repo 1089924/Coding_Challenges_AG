@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------
-# Name:        Student Grading System
+# Name:       Sum of Numbers
 # Purpose:     To calculate the sum of all natural digits up to a checkpoint inputted by the user
 #
 # Author:      Aarvish Gupta

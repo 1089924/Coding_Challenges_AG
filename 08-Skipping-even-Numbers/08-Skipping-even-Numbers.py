@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------
-# Name:        Student Grading System
+# Name:        Skip-Even Numbers
 # Purpose:     Skipping all even numbers within the numerical range of 1 to 10
 #
 # Author:      Aarvish Gupta

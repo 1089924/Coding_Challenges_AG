@@ -1,6 +1,6 @@
 #-----------------------------------------------------------------------------
 # Name:        Student Grading System
-# Purpose:     To provide the Grade on the basis of the numerical marks
+# Purpose:     To calculate the sum of all natural digits up to a checkpoint inputted by the user
 #
 # Author:      Aarvish Gupta
 # Created:     16-Mar-2025

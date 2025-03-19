@@ -1,6 +1,6 @@
 #-----------------------------------------------------------------------------
 # Name:        Student Grading System
-# Purpose:     To provide the Grade on the basis of the numerical marks
+# Purpose:     Random number guessing game
 #
 # Author:      Aarvish Gupta
 # Created:     16-Mar-2025

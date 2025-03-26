@@ -1,4 +1,5 @@
-    BEGIN
+
+BEGIN
     Initialize grocery_list with ['apples', 'bananas', 'carrots', 'milk', 'bread']
     Print grocery_list
     

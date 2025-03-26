@@ -1,3 +1,11 @@
+#-----------------------------------------------------------------------------
+# Name:       Nested Lists
+# Purpose:    To compile more than one lists in on main list
+#
+# Author:      Aarvish Gupta
+# Created:     19-Mar-2025
+# Updated:     26-Mar-2025
+#-----------------------------------------------------------------------------
 
 # Initial list of students
 students = [['Alice', 25, 'Physics'], ['Bob', 22, 'Chemistry'], ['Charlie', 24, 'Biology']]

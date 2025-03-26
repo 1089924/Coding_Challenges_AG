@@ -1,3 +1,12 @@
+#-----------------------------------------------------------------------------
+# Name:       List Slicing
+# Purpose:    To edit the list to obtain the required values from the main list
+#
+# Author:      Aarvish Gupta
+# Created:     19-Mar-2025
+# Updated:     26-Mar-2025
+#-----------------------------------------------------------------------------
+
 # Initialize a list of colors
 colors = ['red', 'blue', 'green', 'yellow', 'purple']
 

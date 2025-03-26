@@ -1,3 +1,12 @@
+#-----------------------------------------------------------------------------
+# Name:        Removal of Lists
+# Purpose:     To remove items from a list
+#
+# Author:      Aarvish Gupta
+# Created:     19-Mar-2025
+# Updated:     26-Mar-2025
+#-----------------------------------------------------------------------------
+
 # Initialize a to-do list with some tasks
 todo_list = ['write email', 'finish homework', 'call mom', 'clean room']
 

@@ -1,3 +1,12 @@
+#-----------------------------------------------------------------------------
+# Name:        List Filtering
+# Purpose:     To manipulate the items of a list to obtain our required output
+#
+# Author:      Aarvish Gupta
+# Created:     19-Mar-2025
+# Updated:     26-Mar-2025
+#-----------------------------------------------------------------------------
+
 # Initialize a list of numbers from 1 to 10
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 # Initialize an empty list for even numbers

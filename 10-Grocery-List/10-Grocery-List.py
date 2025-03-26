@@ -4,7 +4,7 @@
 #
 # Author:      Aarvish Gupta
 # Created:     19-Mar-2025
-# Updated:     19-Mar-2025
+# Updated:     26-Mar-2025
 #-----------------------------------------------------------------------------
 # Initialize an empty grocery list
 Grocery_List = []

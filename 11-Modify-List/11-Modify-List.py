@@ -7,6 +7,15 @@
 # Updated:     19-Mar-2025
 # -----------------------------------------------------------------------------
 
+# -----------------------------------------------------------------------------
+# Name:        Modify List
+# Purpose:     To make changes in a list
+#
+# Author:      Aarvish Gupta
+# Created:     19-Mar-2025
+# Updated:     19-Mar-2025
+# -----------------------------------------------------------------------------
+
 # Initialize a grocery list with some default items
 grocery_list = ['apples', 'bananas', 'carrots', 'milk', 'bread']
 

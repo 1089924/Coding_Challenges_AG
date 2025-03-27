@@ -1,3 +1,12 @@
+#-----------------------------------------------------------------------------
+# Name:        Tuples
+# Purpose:     Using tuples
+#
+# Author:      Aarvish Gupta
+# Created:     26-Mar-2025
+# Updated:     27-Mar-2025
+#-----------------------------------------------------------------------------
+
 # Display instructions to the user
 print("Please provide the specific items for your list")
 print("No changes can be made to the list once you have entered the values")

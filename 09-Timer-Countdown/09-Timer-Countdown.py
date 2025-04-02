@@ -7,7 +7,7 @@
 # Updated:     19-Mar-2025
 #-----------------------------------------------------------------------------
 # Countdown starting from 10
-count = 10
+count = 10000000
 
 while count > 0:
     print(count)
